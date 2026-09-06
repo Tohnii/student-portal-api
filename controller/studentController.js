@@ -1,4 +1,4 @@
-const userModel = require("../model/studentModel.js")
+const studentModel = require("../model/studentModel.js")
 
 /**
  * CRUD
